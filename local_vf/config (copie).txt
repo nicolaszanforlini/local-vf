@@ -1,0 +1,5 @@
+[DEFAULT]
+MyName = AZRIA
+
+[SQLITE]
+DataDB = restau.db
