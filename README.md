@@ -1,2 +1,2 @@
 
-projet effectué en classe (SIMPLON)
+projet scolaire
